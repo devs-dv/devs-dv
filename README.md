@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm DIVYANSHU VERMA</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devs-dv" alt="devs-dv" /></a> </p>
+
 - 🔭 I’m currently working on [BrandCollab](https://github.com/devs-dv/brandcollab)
 
 - 🌱 I’m currently learning **Web3**
+
+- as well as **RidersLife**
+
+- and **EduEasy**
+
+- or hit here : [divyanshuverma.vercel.app](divyanshuverma.vercel.app)
 
 - 💬 Ask me about **MERN stack,Java,Python,Web3,Freelance work and anything related to Development, new Tech Stack**
 
